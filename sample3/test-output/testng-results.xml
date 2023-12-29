@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-28T17:17:13 IST" name="Default Suite" finished-at="2023-12-28T17:17:30 IST" duration-ms="16347">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T17:17:13 IST" name="sample3" finished-at="2023-12-28T17:17:30 IST" duration-ms="16347">
+      <class name="com.crm.qa.test.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.test.LoginPageTest@48e4374]" started-at="2023-12-28T17:17:13 IST" name="setup" finished-at="2023-12-28T17:17:19 IST" duration-ms="5532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:com.crm.qa.test.LoginPageTest@48e4374]" started-at="2023-12-28T17:17:19 IST" name="login" finished-at="2023-12-28T17:17:24 IST" duration-ms="4623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.test.LoginPageTest@48e4374]" started-at="2023-12-28T17:17:24 IST" name="tearDown" finished-at="2023-12-28T17:17:24 IST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.test.LoginPageTest@48e4374]" started-at="2023-12-28T17:17:24 IST" name="setup" finished-at="2023-12-28T17:17:29 IST" duration-ms="4936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateTitle()[pri:0, instance:com.crm.qa.test.LoginPageTest@48e4374]" started-at="2023-12-28T17:17:29 IST" name="validateTitle" finished-at="2023-12-28T17:17:29 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.test.LoginPageTest@48e4374]" started-at="2023-12-28T17:17:29 IST" name="tearDown" finished-at="2023-12-28T17:17:30 IST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.test.LoginPageTest -->
+    </test> <!-- sample3 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
